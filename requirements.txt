@@ -1,4 +1,8 @@
 requests
-pytz
 feedparser
 pandas
+python-docx
+pytz
+newspaper3k
+lxml
+nltk
